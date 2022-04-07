@@ -1,2 +1,2 @@
-# Social-photo-sharing-Application.-
+# Social-photo-sharing-Application
 Photo posting application 
